@@ -22,7 +22,7 @@ public class MyBatisTest {
 
 	/**
 	 * 1、获取sqlSessionFactory对象:
-	 * 		解析文件的每一个信息保存在Configuration中，返回包含Configuration的DefaultSqlSession；
+	 * 		解析文件的每一个信息保存在Configuration中，返回包含Configuration的DefaultsqlSessionFactory；
 	 * 		注意：【MappedStatement】：代表一个增删改查的详细信息
 	 * 
 	 * 2、获取sqlSession对象
